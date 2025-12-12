@@ -26,13 +26,13 @@ Inside the working directory '/content' in Colab, we will create a 'packages' di
 To install our package on the Colab notebook, we need to tell pip not to look for the package in PyPI or any other artifact repository, but to look for it in the path '/content/packages' in the Colab framework.
 
 ```
-pip install cei_template --find-links=/content/packages
+pip install csv_dv --find-links=/content/packages
 ```
 
 Once the package is installed, we can import it and start using it.
 
 ```
-import cei_template
+import csv_db
 ```
 
 ### Usage Example
