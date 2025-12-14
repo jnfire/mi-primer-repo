@@ -43,4 +43,4 @@ import csv_db
 ## Credits
 
 ### Owner
-- Your Name <your_mail@cei.es>
+- Your Name <martina.zapater@alumnos.cei.es
